@@ -1,4 +1,4 @@
-package pl.maniaq;
+package pl.maniaq.cars;
 
 public class Car {
     String brand;
